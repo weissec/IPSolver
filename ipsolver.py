@@ -8,8 +8,8 @@ import sys
 # Banner
 banner = """  ___ ___  ___      _             
  |_ _| _ \\/ __| ___| |_ _____ _ _ 
-  | ||  _/\\__ \\/ _ \\ \\ \V / -_) '_|
- |___|_|  |___/\___/_|\\_/\\___|_|                               
+  | ||  _/\\__ \\/ _ \\ \\ \\ / -_) '_|
+ |___|_|  |___/\\___/_|\\_/\\___|_|                           
                          
 Retrieves: Reverse DNS, ASN, Prefix/CIDR, Country, Registry, ASN Allocated, ASN Name
 """
