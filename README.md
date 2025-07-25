@@ -3,7 +3,7 @@ OSINT tool which passively retrieves a list of information for a list of IP addr
 
 ## How to run:
 ```
-python3 ipinfo.py --input ips.txt --output results.csv
+python3 ipsolver.py --input ips.txt --output results.csv
 ```
 ### Example Input File
 ```
