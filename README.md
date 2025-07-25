@@ -5,6 +5,12 @@ OSINT tool which passively retrieves a list of information for a list of IP addr
 ```
 python3 ipinfo.py --input ips.txt --output results.csv
 ```
+### Example Input File
+```
+8.8.8.8
+1.1.1.1
+```
+
 ## Example Results:
 IP | Reverse DNS | ASN | Prefix | Country | Registry | ASN Allocated | ASN Name
 -- | -- | -- | -- | -- | -- | -- | --
