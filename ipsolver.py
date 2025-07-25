@@ -6,10 +6,10 @@ import argparse
 import sys
 
 # Banner
-banner = """   _______  _      ___   
-  /  _/ _ \\(_)__  / _/__ 
- _/ // ___/ / _ \\/ _/ _ \\
-/___/_/  /_/_//_/_/ \\___/
+banner = """  ___ ___  ___      _             
+ |_ _| _ \\/ __| ___| |_ _____ _ _ 
+  | ||  _/\\__ \\/ _ \\ \\ \V / -_) '_|
+ |___|_|  |___/\___/_|\\_/\\___|_|                               
                          
 Retrieves: Reverse DNS, ASN, Prefix/CIDR, Country, Registry, ASN Allocated, ASN Name
 """
